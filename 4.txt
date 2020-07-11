@@ -1,0 +1,1 @@
+[{"title":"Serie1","file":"https://v1.paradisehill.cc/video/100815-1242-5_part1.mp4"},{"title":"Serie2","file":"https://v1.paradisehill.cc/video/100815-1242-5_part2.mp4"},{"title":"Serie3","file":"https://v1.paradisehill.cc/video/100815-1242-5_part3.mp4"},{"title":"Serie4","file":"https://v1.paradisehill.cc/video/100815-1242-5_part4.mp4"}]
