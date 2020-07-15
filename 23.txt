@@ -1,0 +1,4 @@
+[{"title":"Ep. 1/4","file":"https://v1.paradisehill.cc/video/1612171054_1_part1.mp4"},
+{"title":"Ep. 2/4","file":"https://v1.paradisehill.cc/video/1612171054_1_part2.mp4"},
+{"title":"Ep. 3/4","file":"https://v1.paradisehill.cc/video/1612171054_1_part3.mp4"},
+{"title":"Ep. 4/4","file":"https://v1.paradisehill.cc/video/1612171054_1_part4.mp4"}]
