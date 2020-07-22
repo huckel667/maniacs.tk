@@ -1,0 +1,5 @@
+[{"title":"Ep. 1/5","file":"https://v1.paradisehill.cc/video/pzi3bwkxrr_1_part1.mp4"},
+{"title":"Ep. 2/5","file":"https://v1.paradisehill.cc/video/pzi3bwkxrr_1_part2.mp4"},
+{"title":"Ep. 3/5","file":"https://v1.paradisehill.cc/video/pzi3bwkxrr_2_part1.mp4"},
+{"title":"Ep. 4/5","file":"https://v1.paradisehill.cc/video/pzi3bwkxrr_3_part1.mp4"},
+{"title":"Ep. 5/5","file":"https://v1.paradisehill.cc/video/pzi3bwkxrr_4_part1.mp4"}]
