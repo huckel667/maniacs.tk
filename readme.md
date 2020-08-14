@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/huckel667/count.svg)
+![Visitor Count](https://badges.pufler.dev/visits/huckel667/maniacs.tk)
 
 
 
